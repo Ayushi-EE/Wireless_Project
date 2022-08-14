@@ -1,3 +1,4 @@
+%random location generator
 function [ AP_loc , UE_loc ] = New_AP_UE_Index ( AP_loc , UE_loc, Num_of_loc )
 Num_AP_loc = length ( AP_loc ) ;
 Num_UE_loc = length (UE_loc ) ;
